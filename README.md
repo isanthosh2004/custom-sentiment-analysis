@@ -1,6 +1,6 @@
 ## Custom Twitter Sentiment Analysis
 
-Welcome to the Custom Twitter Sentiment Analysis project! This project aims to classify the sentiment of tweets as either positive or negative using machine learning techniques.
+Welcome to the Custom Twitter Sentiment Analysis project! This project aims to classify the sentiment of tweets as either positive or negative based on our input tweet using machine learning techniques.
 
 ### Features
 
